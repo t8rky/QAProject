@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS animal (animalTag INT PRIMARY KEY, animalname VARCHAR(50), animaltype VARCHAR(50), age varchar(25))

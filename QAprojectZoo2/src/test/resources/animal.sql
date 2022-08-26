@@ -1,0 +1,1 @@
+INSERT INTO animal (animalTag, animalname,animaltype,age) VALUES (1001,'manny','Panda',12), (1002,'yanny','bear',20), (1003,'franny','wolf','4');
